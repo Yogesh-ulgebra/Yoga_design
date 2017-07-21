@@ -10,7 +10,7 @@
 </head>
 <body>
 <div>
-	file from mase	
+	file from maser
 	change
 </div>
 </body>
