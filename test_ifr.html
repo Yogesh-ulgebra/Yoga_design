@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body >
+     <p>
+          Please Wait...
+     </p>
+     <iframe id="myIframe" src="http://sakthikanthj.esy.es/test_post.html"></iframe>
+     <script>
+
+
+     window.addEventListener('message', function(event) {
+
+            alert('Received message: ' + event.data.message);
+
+         }, false);
+
+     </script>
+
+     <button onclick="get_text()">CLick</button>
+</body>
+</html>
