@@ -3,7 +3,7 @@
 <head>
 	<title></title>
 	<script type="text/javascript">
-
+	var app_id = 1;
 		window.addEventListener("onload", function() { debugger; }, false)
 				
 	</script>
