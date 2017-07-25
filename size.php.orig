@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript">
+<<<<<<< HEAD
+	var app_id = 1;
+=======
+	var app_id = 2;
+>>>>>>> master
+		window.addEventListener("onload", function() { debugger; }, false)
+				
+	</script>
+</head>
+<body>
+<div>
+	file from masr 
+	change
+</div>
+<div>
+add this
+</div>
+</body>
+</html>
